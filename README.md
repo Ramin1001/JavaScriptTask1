@@ -1,2 +1,2 @@
-# JavaScriptTask1
-Working with inputs in JavaScript(jQuery)
+# JavaScript задача первая
+Делаем сложение. Плоностью готова.
