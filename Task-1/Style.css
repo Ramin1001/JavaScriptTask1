@@ -1,0 +1,21 @@
+.container .form{
+    margin: 30px auto;
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 250px;
+    padding: 20px;
+}
+
+.container input{
+    display: block;
+    margin-bottom: 15px;
+}
+
+label{
+    font-weight: bold;
+}
+
+.container button{
+    padding: 4px;
+    width: 100px
+}
